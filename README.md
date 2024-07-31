@@ -1,13 +1,25 @@
-### Hi there 👋
+### Hola 👋
 
-- 🔭 I’m currently working:
-      Build an app with ASPNET Core and Angular 
-      
-- 🌱 I’m currently learning:
-      Ultimate C# Masterclass for 2024 2023 - Focus on clean code, performance and practice.(43 horas de vídeo)
-      Design Patterns in C# and .NET 
-      Complete C# Programming Course - Beginner to Expert
-      The Complete Java Script Course 2022 FromZerotoExpert
+- 🔭 Actualmente estoy trabajando en:
+      Crear una aplicación E-COMMERCE con ASPNET Core MVC  y desplegarla en azure.
+  
+- 🔭 Mis proyectos personales terminados:
+      Construí dos apis rest ful con ASPNET Core y Angular 
+      Una es una aplicacion de citas
+      Otra es para hacer trueques de bienes y servicios en Argentina
+
+-🌱  Educacion formal titulada:
+      Técnico superior en desarrollo de software de 3 años de duración (ITSC).
+      Analista de sistemas - Universidad Nacional de Córdoba -Famaf
+
+-🌱   Cursos de educacion no formal:
+      *Ultimate C# Masterclass para 2024 : centrado en código limpio, rendimiento y práctica. 
+      *Patrones de diseño en C# y .NET 
+      *Curso completo de programación en C#: principiante a experto
+      *El curso completo de Java Script 2022 de ZerotoExpert
+
+
+- 🌱 
 
 SKILLS:
 
