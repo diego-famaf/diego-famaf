@@ -1,4 +1,6 @@
 ### Hola 👋
+- 🔭  Actualmente estoy trabajando en:
+      Agentes, orquestacion de sistemas complejos
 
 - 🔭  Actualmente estoy trabajando en:
       Crear una aplicación E-COMMERCE con ASPNET Core MVC  y desplegarla en azure.
